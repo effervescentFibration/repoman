@@ -1,5 +1,7 @@
 Repoman
 =======
+Partner: leokim89
+
 
 Some people figure that adding more repositories increases the chances of success, but that's foolish. You pick the one right tool for the job.
 
